@@ -3,7 +3,7 @@ Materials for my Workshop presentation
 
 This workshop was conducted by <a href="https://github.com/prabhuSub">Prabhu Subramanian</a> and <a href="https://github.com/ziweifan177">Ziwei Wing Fan</a> gave on Febraury 16th 2019 to 100 Northeastern College of engineering students under the <a href="https://github.com/neuskunkworksrepo">NEU Skunkworks workshop</a> activities.
 
-Contains, all the materials to teach students on the git basics. Below are the topics covered.
+Contains, all the materials to teach students on the git basics. Topics covered but not limited to were:
 
 1. Git Basics
 
